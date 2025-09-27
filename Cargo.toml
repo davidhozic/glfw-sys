@@ -1,10 +1,8 @@
 [package]
-name = "glfw-sys"
+name = "glfw-sys-mjrc-fork"
 version = "6.0.0"
 authors = ["Camilla Berglund <elmindreda@elmindreda.org>"]
-description = "An Open Source, multi-platform library for creating windows with OpenGL contexts and receiving input and events"
-documentation = "http://www.glfw.org/documentation.html"
-homepage = "http://www.glfw.org/"
+description = "A temporary fork of https://crates.io/crates/glfw-sys, containing some required patches for MuJoCo-rs."
 repository = "https://github.com/PistonDevelopers/glfw-sys"
 readme = "README.md"
 license = "Zlib"
