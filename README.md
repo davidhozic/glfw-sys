@@ -1,3 +1,7 @@
+# NOTICE
+This is a FORK of https://github.com/PistonDevelopers/glfw-sys.
+It is intended for the sole purpose of having a bug-fixed version in https://crates.io/crates/mujoco-rs.
+
 # Glfw + Rust
 This repo contains `glfw-sys` crate that provides FFI bindings to [glfw](https://www.glfw.org). You are not really supposed to use this crate directly, but rather use [glfw](https://crates.io/crates/glfw) crate instead.
 
