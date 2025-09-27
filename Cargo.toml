@@ -1,6 +1,6 @@
 [package]
 name = "glfw-sys-mjrc-fork"
-version = "6.0.0"
+version = "6.0.0+1"
 authors = ["Camilla Berglund <elmindreda@elmindreda.org>", "David Hozic (the fork)"]
 description = "A fork of https://crates.io/crates/glfw-sys, containing some required patches for MuJoCo-rs."
 repository = "https://github.com/PistonDevelopers/glfw-sys"
